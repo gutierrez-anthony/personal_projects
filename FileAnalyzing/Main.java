@@ -1,3 +1,11 @@
+/* Anthony Gutierrez
+   03/15/2022
+   Main.java
+   This program analyzes files, creates an updated version of the file, 
+   sorts the file by date of birth, and prompts the user for a year to 
+   show all of the members born that year.
+*/
+
 import java.util.*;
 import java.io.*;
 
