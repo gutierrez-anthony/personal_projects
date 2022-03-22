@@ -1,0 +1,140 @@
+/*
+    Web page styles for the video games dataset page.
+    Author: Anthony Gutierrez
+    File: styles.css
+    Date: 3/7/2022
+*/
+html {
+    background-color: #dee2e6;
+}
+
+body {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-areas:
+    " header header header header header "
+    " header header header header header "
+    " left  left  left  right right "
+    "  .    prev   .     next   .   "
+    " foot  foot  foot   foot  foot ";
+    margin: 5% auto;
+    width: 75%;
+}
+
+header {
+    grid-area: header;
+}
+
+h1 {
+    background-color: #212529;
+    color: #FFFFFFD8;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    border: 3px solid black;
+    clear: both;
+    margin: 0 -100%;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul {
+    list-style: inside;
+}
+
+li {
+    margin: 1%;
+}
+
+header p {
+    background-color: #6c757d;
+    color: #FFFFFFD8;
+    font-size: 1.2em;
+    margin: 5px 15%;
+    text-align: center;
+}
+
+#left-col {
+    grid-area: left;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+    "    h2      h2 "
+    " features   meta "
+    " metrics  release "
+    "  length   length ";
+    background-color: #adb5bd;
+    border: 2px solid black;
+    width: 100%;
+    padding: 10px;
+    float: left;
+}
+
+#left-col button {
+    margin: auto;
+    margin-top: 3%;
+}
+
+#left-col h2{
+    grid-area: h2;
+}
+
+#left-col button:first-of-type {
+    grid-area: features;
+}
+
+#left-col button:nth-of-type(2) {
+    grid-area: meta;
+}
+
+#left-col button:nth-of-type(3) {
+    grid-area: metrics;
+}
+
+#left-col button:nth-of-type(4) {
+    grid-area: release;
+}
+
+#left-col button:last-of-type {
+    grid-area: length;
+}
+
+button {
+    background-color: #e3ecf1;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#right-col {
+    grid-area: right;
+    background-color: #adb5bd;
+    border: 2px solid black;
+    width: 100%;
+    float: right;
+    padding: 10px 0 10px 10px;
+}
+
+footer {
+    grid-area: foot;
+    background-color: #212529;
+    color: #FFFFFFD8;
+    text-align: center;
+    font-size: 1.2em;
+    padding: 5px;
+    clear: both;
+    margin: 0 -100%;
+}
+
+#previous {
+    grid-area: prev;
+    padding: 5%;
+}
+
+#next {
+    grid-area: next;
+    padding: 5%;
+}
