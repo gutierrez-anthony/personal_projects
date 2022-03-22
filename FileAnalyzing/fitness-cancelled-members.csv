@@ -1,0 +1,560 @@
+member_id,gender,address,city,state,postal_code,dob,referred by,plan,total,plan_status,member_since,plan_end_date,is_member
+Michael,Not Specified,,Olympia,WA,98512,,Existing Member,Team Training 3x Per Week ,109,cancelled,5/17/2016,9/19/2016,1
+Christopher,Female,,,,98589,1998,Existing Member,Team Training 3x Per Week ,84,cancelled,11/3/2019,3/19/2020,0
+Jessica,Female,,,,98589,1998,Existing Member,Team Training 3x Per Week ,109,cancelled,11/3/2019,12/12/2019,0
+Matthew,Not Specified,,Olympia,WA,98502,,Existing Member,Team Training ,104,cancelled,5/11/2016,7/29/2016,1
+Ashley,Female,126 Lane,,,,1975,Existing Member,Semi Private Perfomance 2x Per Week,249,cancelled,1/26/2019,3/24/2019,1
+Jennifer,Male,127 Lane,Olympia ,Wa,98502,1997,Existing Member,Semi Private Elite 3x Per Week ,399,cancelled,7/11/2019,3/4/2020,1
+Joshua,Female,128 Lane,Centralia,Wa,98531,1977,Existing Member,Team Training ,129,cancelled,6/4/2019,2/10/2020,1
+Amanda,Female,129 Lane,,,98513,1953,Existing Member,Semi Private Elite 3x Per Week ,299,cancelled,5/27/2019,7/18/2019,1
+Daniel,Female,130 Lane,,,98501,1995,Existing Member,Team Training ,129,cancelled,4/6/2021,7/20/2021,1
+David,Not Specified,131 Lane,,,,,Facebook,6 week challenge  deposit 2 half payments ,130,cancelled,3/10/2019,,1
+James,Female,132 Lane,,,98503,1972,Facebook,6 Week hybrid bi weekly ,199,cancelled,11/2/2019,11/13/2019,1
+Robert,Female,133 Lane,,,,1992,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/21/2019,4/10/2019,0
+John,Female,134 Lane,,,98512,1986,Facebook,6 week Challenge deposit PIF,299,cancelled,3/28/2019,5/20/2019,1
+Joseph,Female,135 Lane,,,98512,1986,Facebook,Team Training 3x Per Week ,59,cancelled,3/28/2019,10/21/2019,1
+Andrew,Female,136 Lane,,,98501,1993,Facebook,6 week challenge weekly deposit ,50,cancelled,10/17/2020,1/10/2021,1
+Ryan,Female,137 Lane,Olympia ,WA,98516,1993,Facebook,Team Training ,79,cancelled,5/3/2019,2/12/2020,1
+Brandon,Female,138 Lane,Fort Lewis ,WA,98433,1979,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,4/15/2019,,1
+Jason,Female,139 Lane,Shelton,WA,98584,1972,Facebook,Indie Membership 6 Month Commitment,49,cancelled,4/9/2019,10/3/2019,1
+Justin,Not Specified,140 Lane,,,,1919,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/14/2019,,1
+Sarah,Female,141 Lane,,,98503,1987,Facebook,6 week Challenge deposit PIF,249,cancelled,2/19/2019,4/23/2019,1
+William,Female,142 Lane,,,98503,1987,Facebook,Team Training ,99,cancelled,2/19/2019,10/4/2020,1
+Jonathan,Not Specified,143 Lane,,,98512,1976,Facebook,Team Training 3x Per Week ,59,cancelled,4/6/2019,6/8/2019,1
+Stephanie,Female,144 Lane,,,98589,1976,Facebook,Team Training ,79,cancelled,7/23/2019,3/4/2020,0
+Brian,Female,145 Lane,,,98509,1985,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/24/2019,4/14/2019,1
+Nicole,Female,146 Lane,,,98509,1985,Facebook,Team Training ,79,cancelled,2/24/2019,9/4/2019,1
+Nicholas,Female,,,,98509,1985,Facebook,Team Training ,129,cancelled,2/24/2019,2/3/2022,1
+Anthony,Female,148 Lane,,,98501,1977,Facebook,Team Training ,79,cancelled,5/6/2019,12/31/2019,1
+Heather,Female,149 Lane,,,,,Facebook,6 week Challenge deposit PIF,299,cancelled,1/2/2020,1/19/2020,1
+Eric,Female,150 Lane,,,,1994,Facebook,Team Training Month to Month Commitment,74,cancelled,4/27/2019,8/18/2019,1
+Elizabeth,Female,,,,98403,1990,Facebook,Team Training ,79,cancelled,8/8/2019,1/31/2020,1
+Adam,Female,152 Lane,,,98512,1960,Facebook,Team Training 2x per week 6 month commitment,89,cancelled,10/21/2021,10/25/2021,1
+Megan,Not Specified,153 Lane,,,,1995,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/5/2019,4/18/2019,1
+Melissa,Not Specified,154 Lane,,,,,Facebook,Team Training ,107,cancelled,5/13/2016,1/31/2017,1
+Kevin,Female,155 Lane,,,98502,1982,Facebook,Semi Private 3x Per Week Bi Weekly pmt,200,cancelled,11/25/2019,12/27/2019,1
+Steven,Female,,,,98502,1982,Facebook,Team Training ,129,cancelled,11/25/2019,3/9/2020,1
+Thomas,Female,157 Lane,Olympia,WA,98501,1964,Facebook,Semi Private 3x Per Week Bi Weekly pmt,149.5,cancelled,5/10/2016,11/11/2016,1
+Timothy,Female,,Olympia,WA,98501,1964,Facebook,Semi Private 1x per week bi weekly ,100,cancelled,5/10/2016,7/6/2016,1
+Christina,Female,,Olympia,WA,98501,1964,Facebook,semi private 2x per week ,125,cancelled,5/10/2016,5/3/2017,1
+Kyle,Female,,Olympia,WA,98501,1964,Facebook,semi private 2x per week ,125,cancelled,5/10/2016,2/8/2019,1
+Rachel,Male,161 Lane,,,98587,1987,Facebook,Remote 1 on 1 Coaching Program ,134,cancelled,3/11/2020,8/1/2020,1
+Laura,Male,162 Lane,,,98587,1987,Facebook,Remote 1 on 1 Coaching Program ,199,cancelled,3/11/2020,9/30/2020,1
+Lauren,Female,163 Lane,,,98503,1984,Facebook,Team Training ,129,cancelled,3/24/2019,12/26/2019,0
+Amber,Female,164 Lane,McCleary,Wa,98557,1988,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/24/2019,4/12/2019,1
+Brittany,Female,165 Lane,McCleary,Wa,98557,1988,Facebook,Team Training 3x Per Week ,109,cancelled,2/24/2019,4/12/2019,1
+Danielle,Female,166 Lane,McCleary,Wa,98557,1988,Facebook,Team Training 3x Per Week ,109,cancelled,2/24/2019,10/29/2019,1
+Richard,Female,167 Lane,,,,1988,Facebook,Team Training ,129,cancelled,8/3/2019,3/16/2020,0
+Kimberly,Female,168 Lane,Shelton,Wa,98584,1991,Facebook,6 month semi paid in full ,1500,cancelled,7/28/2020,1/28/2021,1
+Jeffrey,Not Specified,169 Lane,Olympia,WA,98501,1968,Facebook,Semi Private Elite 3x Per Week ,299,cancelled,5/7/2016,9/2/2016,1
+Amy,Not Specified,170 Lane,Olympia,WA,98501,1968,Facebook,Semi Private Perfomance 2x Per Week,249,cancelled,5/7/2016,11/4/2016,1
+Crystal,Female,171 Lane,,,98501,1990,Facebook,Team Training ,104,cancelled,4/14/2019,3/29/2020,1
+Michelle,Female,172 Lane,,,,,Facebook,6 week challenge bi weekly,100,cancelled,11/14/2019,11/17/2019,1
+Tiffany,Female,173 Lane,Lacey,Wa,98503,1968,Facebook,6 week challenge weekly deposit ,50,cancelled,4/26/2019,6/10/2019,1
+Jeremy,Female,174 Lane,,,98512,2020,Facebook,Semi Private 3x Per Week Bi Weekly pmt,150,cancelled,9/20/2019,1/15/2020,0
+Benjamin,Female,175 Lane,,,98512,2020,Facebook,semi private 2x per week ,125,cancelled,9/20/2019,5/30/2020,0
+Mark,Female,176 Lane,,,98597,1992,Facebook,Team Training ,79,cancelled,2/17/2019,10/17/2019,1
+Emily,Female,177 Lane,,,98597,1992,Facebook,Team Training 3x Per Week ,79,cancelled,2/17/2019,6/29/2021,1
+Aaron,Female,178 Lane,,,,2019,Facebook,Team Training 3x Per Week ,116,cancelled,3/25/2019,2/12/2021,0
+Charles,Female,179 Lane,,,,,Facebook,6 week challenge weekly deposit ,50,cancelled,1/22/2020,9/17/2020,1
+Rebecca,Female,180 Lane,Lacey,Wa,98503,1985,Facebook,Team Training 3x Per Week ,59,cancelled,4/15/2019,9/15/2019,1
+Jacob,Female,181 Lane,Lacey,Wa,98503,1985,Facebook,Team Training 3x Per Week ,59,cancelled,4/15/2019,11/13/2019,1
+Stephen,Not Specified,182 Lane,Lacey,WA,98503,,Facebook,Team Training ,129,cancelled,5/13/2016,1/13/2017,1
+Patrick,Female,183 Lane,,,98501,2020,Facebook,Team Training 3x Per Week ,80,cancelled,3/12/2020,8/12/2020,1
+Sean,Not Specified,,,,,,Facebook,6 week challenge  deposit 2 half payments ,125,cancelled,2/28/2019,,1
+Erin,Not Specified,,,,,,Facebook,6 week Challenge deposit PIF,299,cancelled,2/28/2019,5/7/2019,1
+Zachary,Not Specified,,,,,,Facebook,Team Training ,99,cancelled,2/28/2019,2/2/2020,1
+Jamie,Female,,Olympia,WA,98501-1276,1970,Facebook,6 week challenge weekly deposit ,50,cancelled,2/13/2021,2/18/2021,1
+Kelly,Female,,,,,1991,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/12/2019,,1
+Samantha,Female,,,,98513-4571,1976,Facebook,6 week challenge weekly deposit ,50,cancelled,1/29/2020,2/12/2020,1
+Nathan,Female,,,,98513-4571,1976,Facebook,Live Virtual Training ,80,cancelled,1/29/2020,2/11/2021,1
+Sara,Female,,Olympia ,Wa,98516,1994,Facebook,Team training bi weekly ,40,cancelled,5/24/2019,10/21/2020,1
+Dustin,Female,,,,,,Facebook,Team Training ,104,cancelled,12/28/2019,2/12/2020,1
+Paul,Female,,,,98584,1992,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/26/2019,4/15/2019,0
+Angela,Female,,,,98584,1992,Facebook,Team Training 3x per week month to month,79,cancelled,2/26/2019,8/22/2019,0
+Tyler,Female,,,,98584,1992,Facebook,Team Training ,79,cancelled,2/26/2019,10/16/2019,0
+Scott,Female,,Olympia,WA,98501,1979,Facebook,Team Training ,129,cancelled,5/28/2016,6/28/2016,1
+Katherine,Female,,Olympia,WA,98513,1986,Facebook,Team Training ,104,cancelled,5/17/2016,4/4/2019,1
+Andrea,Female,198 Lane,,,,,Facebook,6 week challenge weekly deposit ,50,cancelled,2/5/2021,2/17/2021,0
+Gregory,Female,199 Lane,,,98576,1979,Facebook,Team Training 3x Per Week ,109,cancelled,4/3/2019,4/27/2020,0
+Erica,Female,200 Lane,,,,1984,Facebook,Semi Private Elite 3x Per Week ,349,cancelled,10/21/2019,10/28/2019,1
+Mary,Female,201 Lane,,,,1984,Facebook,Semi private 3x per week weekly payment ,99,cancelled,10/21/2019,11/10/2019,1
+Travis,Female,,Tumwater,WA,98512,1985,Facebook,Team Training ,129,cancelled,5/14/2016,2/22/2017,1
+Lisa,Female,203 Lane,Tumwater,WA,98512,1985,Facebook,Team Training ,129,cancelled,5/14/2016,11/1/2019,1
+Kenneth,Female,204 Lane,Tumwater,WA,98512,1985,Facebook,Team Training 3x Per Week ,109,cancelled,5/14/2016,11/1/2019,1
+Bryan,Female,205 Lane,,,98502,1993,Facebook,Team Training 3x Per Week ,109,cancelled,2/23/2019,4/18/2019,1
+Lindsey,Female,,Lacey,WA,98503,1964,Facebook,Semi Private Elite 3x Per Week ,399,cancelled,10/6/2021,1/16/2022,1
+Kristen,Female,,,,98501,1975,Facebook,Team Training 3x Per Week ,59,cancelled,3/13/2019,2/12/2020,1
+Jose,Not Specified,,,,98512,1995,Facebook,6 week challenge bi weekly,100,cancelled,5/24/2019,,1
+Alexander,Not Specified,,,,98512,1995,Facebook,Team Training Month to Month Commitment,74,cancelled,5/24/2019,9/20/2019,1
+Jesse,Female,,Olympia ,Wa,98502,1987,Facebook,Team Training 3x Per Week ,94,cancelled,2/17/2019,9/8/2020,1
+Katie,Female,,,,,1978,Facebook,Semi Private Perfomance 2x Per Week,299,cancelled,11/2/2019,12/1/2019,0
+Lindsay,Female,,,,,1978,Facebook,Team Training ,129,cancelled,11/2/2019,12/2/2019,0
+Shannon,Female,213 Lane,,,,1978,Facebook,Team Training ,129,cancelled,11/2/2019,1/10/2020,0
+Vanessa,Female,214 Lane,,,98512,1974,Facebook,Team Training 3x Per Week bi weekly ,55,cancelled,5/12/2016,8/23/2017,1
+Courtney,Female,215 Lane,,,98512,1974,Facebook,Precision Nutrition ProCoach Program member rate ,25,cancelled,5/12/2016,,1
+Christine,Female,216 Lane,,,98512,1974,Facebook,Team Training 3x Per Week ,109,cancelled,5/12/2016,9/30/2021,1
+Alicia,Female,217 Lane,Lacey,Wa,98503,1995,Facebook,6 week challenge weekly payments ,37,cancelled,10/5/2020,2/21/2021,1
+Cody,Not Specified,,Olympia,WA,98513,1977,Facebook,2x per week disount family ,215,cancelled,5/14/2016,,1
+Allison,Not Specified,,,,,,Facebook,Team Training 3x Per Week ,59,cancelled,2/27/2019,10/9/2019,1
+Bradley,Female,,,,98502,1982,Facebook,Semi Private Elite 3x Per Week ,399,cancelled,10/11/2019,10/11/2019,1
+Samuel,Female,,,,98597,1982,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/22/2019,5/15/2019,0
+Shawn,Female,,,,98597,1982,Facebook,Team Training ,79,cancelled,3/22/2019,5/15/2019,0
+April,Female,,,,98597,1982,Facebook,Team Training ,129,cancelled,3/22/2019,11/22/2019,0
+Derek,Female,,Tumwater,WA,98512,1984,Facebook,Team Training ,129,cancelled,4/14/2019,2/29/2020,1
+Kathryn,Not Specified,,Olympia,WA,98508,,Facebook,Buti yoga only ,32,cancelled,5/23/2016,8/23/2016,1
+Kristin,Female,,Olympia,WA,98501-3594,1968,Facebook,Team Training 3x Per Week ,59,cancelled,5/5/2019,6/20/2019,1
+Chad,Female,227 Lane,Olympia,WA,98501-3594,1968,Facebook,Team Training 3x Per Week ,59,cancelled,5/5/2019,8/21/2019,1
+Jenna,Not Specified,228 Lane,Olympia,WA,98502,1969,Facebook,Team Training ,129,cancelled,5/17/2016,5/31/2019,1
+Tara,Female,229 Lane,,,98512,1973,Facebook,Team Training 3x Per Week ,109,cancelled,2/5/2022,2/11/2022,1
+Maria,Female,,,,98502,1964,Facebook,6 week challenge weekly deposit ,50,cancelled,2/1/2021,2/5/2021,0
+Krystal,Female,,,,98502,1964,Facebook,Small Group Personal Training Weekly ,50,cancelled,2/1/2021,2/18/2021,0
+Jared,Female,232 Lane,,,98502,1964,Facebook,Small Group Personal Training Weekly ,50,cancelled,2/1/2021,3/9/2021,0
+Anna,Female,233 Lane,Olympia,WA,98506,1965,Facebook,Semi Private Elite 3x Per Week ,299,cancelled,5/12/2016,6/20/2016,1
+Edward,Female,234 Lane,Olympia,WA,98506,1965,Facebook,Team Training ,129,cancelled,5/12/2016,9/19/2019,1
+Julie,Female,,Olympia,WA,98506,1965,Facebook,Semi private upgrade ,120,cancelled,5/12/2016,11/28/2016,1
+Peter,Female,,Olympia,WA,98506,1965,Facebook,Team Training ,129,cancelled,5/12/2016,12/31/2019,1
+Holly,Not Specified,237 Lane,,,,,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/18/2019,,1
+Marcus,Not Specified,,,,,1983,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/4/2019,4/18/2019,1
+Kristina,Not Specified,239 Lane,,,,1983,Facebook,Team Training 3x Per Week ,59,cancelled,3/4/2019,10/17/2019,1
+Natalie,Female,,,,98530,1985,Facebook,Hybrid All Inclusive bi weekly 6month commitment ,139,cancelled,10/18/2019,1/31/2020,0
+Jordan,Female,241 Lane,Tumwater ,WA,98501,1993,Facebook,6 week Challenge deposit PIF,299,cancelled,9/29/2019,10/22/2019,0
+Victoria,Female,242 Lane,,,,,Facebook,6 Week hybrid bi weekly ,199,cancelled,8/30/2019,9/2/2019,1
+Jacqueline,Female,,Tumwater,Wa,98512,1989,Facebook,6 week challenge weekly deposit ,50,cancelled,4/30/2019,,1
+Corey,Female,,Tumwater,Wa,98512,1989,Facebook,Team Training ,87,cancelled,4/30/2019,9/7/2019,1
+Keith,Female,245 Lane,,,,,Facebook,Semi private 2x per week weekly payment ,75,cancelled,10/19/2019,11/22/2019,1
+Monica,Female,246 Lane,,,,,Facebook,Team training weekly pay,33,cancelled,10/19/2019,12/27/2019,1
+Juan,Female,,Olympia ,Wa,98512,1984,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,4/15/2019,5/14/2019,1
+Donald,Not Specified,,Olympia,WA,98501,1978,Facebook,Semi Private Perfomance 2x Per Week,249,cancelled,5/10/2016,11/14/2016,1
+Cassandra,Female,,,,98513,1989,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/26/2019,5/15/2019,0
+Meghan,Female,,,,98503,1988,Facebook,Team Training 3x Per Week ,109,cancelled,2/8/2019,3/20/2020,1
+Joel,Female,,,,,,Facebook,Remote 1 on 1 Coaching Program ,189,cancelled,1/21/2020,1/29/2020,1
+Shane,Not Specified,,,,,,Facebook,Team Training ,104,cancelled,5/15/2016,6/30/2017,1
+Phillip,Not Specified,,,,,,Facebook,Team Training ,104,cancelled,5/15/2016,2/14/2017,1
+Patricia,Female,,,,98516,1977,Facebook,Team Training ,99,cancelled,3/25/2019,8/22/2019,1
+Brett,Female,,,,98516,1977,Facebook,Team Training ,99,cancelled,3/25/2019,9/28/2019,1
+Ronald,Female,,,,,1988,Facebook,Team Training 3x Per Week ,109,cancelled,10/7/2021,10/17/2021,1
+Catherine,Female,,,,,1978,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/19/2019,,1
+George,Female,,,,,,Facebook,Team Training ,104,cancelled,12/2/2019,10/8/2020,1
+Antonio,Female,,,,98501,1986,Facebook,Team Training 2x per week 6 month commitment,89,cancelled,2/22/2019,10/22/2019,1
+Cynthia,Female,,Lacey,WA,98503,1979,Facebook,Team Training 3x Per Week ,59,cancelled,4/22/2019,11/4/2019,1
+Stacy,Female,,Olympia ,WA,98512,1994,Facebook,6 week challenge weekly deposit ,50,cancelled,5/4/2019,,1
+Kathleen,Female,,,,98512,1975,Facebook,Team Training ,129,cancelled,10/4/2021,11/11/2021,1
+Raymond,Female,,,,,,Facebook,6 week challenge bi weekly,100,cancelled,1/23/2020,1/29/2020,1
+Carlos,Female,264 Lane,Tumwater ,Wa,98512,1984,Facebook,Team Training ,99,cancelled,4/17/2019,8/1/2020,1
+Brandi,Female,265 Lane,,,98513,1988,Facebook,6 week challenge  deposit 2 half payments ,145,cancelled,2/27/2019,4/15/2019,1
+Douglas,Female,,,,98513,1996,Facebook,Team Training ,79,cancelled,7/11/2019,10/17/2019,0
+Nathaniel,Female,267 Lane,,,98513,1996,Facebook,Team Training ,129,cancelled,7/11/2019,7/14/2020,0
+Ian,Female,268 Lane,,,98516,1987,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/9/2019,,1
+Craig,Female,269 Lane,,,98516,1987,Facebook,Team Training ,79,cancelled,3/9/2019,6/15/2019,1
+Brandy,Female,270 Lane,,,98502,1982,Facebook,Semi Private Elite 3x Per Week ,299,cancelled,10/9/2019,2/10/2020,1
+Alex,Female,271 Lane,Olympia,WA,98512,1963,Facebook,6 week challenge  deposit 2 half payments ,125,cancelled,2/21/2019,4/14/2019,0
+Valerie,Female,272 Lane,Olympia,WA,98512,1963,Facebook,Team Training 3x Per Week ,59,cancelled,2/21/2019,10/16/2019,0
+Veronica,Female,,Tumwater ,WA,98512,1983,Facebook,Team Training ,79,cancelled,6/2/2019,1/4/2020,1
+Cory,Female,274 Lane,,,,1967,Facebook,6 week challenge bi weekly,100,cancelled,8/22/2019,2/12/2020,1
+Whitney,Female,275 Lane,,,98512,1974,Facebook,Team Training 3x Per Week ,109,cancelled,3/18/2019,11/24/2019,1
+Gary,Female,276 Lane,,,,1970,Facebook,Team Training ,104,cancelled,12/2/2019,10/8/2020,1
+Derrick,Female,,,,98531,1982,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/17/2019,4/9/2019,1
+Philip,Female,278 Lane,,,98531,1982,Facebook,Team Training ,79,cancelled,2/17/2019,9/10/2019,1
+Luis,Female,279 Lane,Olympia ,WA,98501,1969,Facebook,Semi Private Perfomance 2x Per Week,299,cancelled,3/12/2019,3/1/2021,1
+Diana,Female,280 Lane,Olympia ,WA,98501,1969,Facebook,Team Training ,129,cancelled,3/12/2019,12/27/2021,1
+Chelsea,Female,281 Lane,,,98512,1980,Facebook,Small Group Personal Training,199,cancelled,9/29/2021,10/29/2021,1
+Leslie,Female,282 Lane,,,98502,1968,Facebook,6 Week Challenge 2x per week semi private weekly payments ,84,cancelled,4/30/2019,,1
+Caitlin,Not Specified,,Olympia,WA,98501,,Facebook,Team Training ,129,cancelled,5/12/2016,10/12/2018,0
+Leah,Not Specified,,,,,,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,4/2/2019,5/18/2019,1
+Natasha,Not Specified,,,,,,Facebook,Team Training 3x Per Week ,59,cancelled,4/2/2019,9/4/2019,1
+Erika,Female,,,,98579,1982,Facebook,Fitness Ablaze Online Fitness Program Design ,30,cancelled,2/11/2020,6/3/2020,1
+Casey,Female,287 Lane,,,,1986,Facebook,6 week challenge weekly deposit ,50,cancelled,4/15/2019,,1
+Latoya,Female,288 Lane,,,,,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/22/2019,,0
+Erik,Female,289 Lane,,,,1989,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,4/6/2019,,1
+Dana,Female,290 Lane,,,98506,1978,Facebook,Team Training ,129,cancelled,4/14/2019,11/30/2019,1
+Victor,Female,291 Lane,,,98506,1978,Facebook,Team Training 3x Per Week ,109,cancelled,4/14/2019,2/23/2020,1
+Brent,Female,,,,98516,1993,Facebook,Team Training 3x per week month to month,29,cancelled,4/7/2019,8/29/2019,1
+Dominique,Male,,,,98502,1963,Facebook,Team Training 3x Per Week ,129,cancelled,3/9/2019,8/8/2020,1
+Frank,Female,,Lacey,WA,98506,1982,Facebook,6 week challenge bi weekly 3x per week semi ,175,cancelled,10/22/2018,,0
+Brittney,Female,,Tumwater,Wa,98501,2019,Facebook,Team Training 3x Per Week ,59,cancelled,4/16/2019,5/30/2019,1
+Evan,Female,,Tumwater,Wa,98501,2019,Facebook,Team Training ,79,cancelled,4/16/2019,3/4/2020,1
+Gabriel,Female,,,,98506,1988,Facebook,Team Training 3x Per Week bi weekly ,55,cancelled,1/21/2020,6/22/2020,1
+Julia,Female,298 Lane,,,,,Facebook,Team Training ,79,cancelled,4/10/2019,8/8/2019,1
+Candice,Female,299 Lane,,,,,Facebook,Team Training 3x Per Week ,59,cancelled,4/10/2019,9/26/2019,1
+Karen,Female,300 Lane,,,98503,1970,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/16/2019,,1
+Melanie,Female,,,,,1976,Facebook,Team Training 3x per week month to month,79,cancelled,3/20/2019,5/13/2019,1
+Adrian,Female,302 Lane,,,,1976,Facebook,Team Training ,79,cancelled,3/20/2019,8/21/2019,1
+Stacey,Female,303 Lane,,,98557,1975,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/4/2019,4/21/2019,1
+Margaret,Female,304 Lane,,,98557,1975,Facebook,Team Training 3x Per Week ,59,cancelled,3/4/2019,4/23/2019,1
+Sheena,Female,,,,98557,1975,Facebook,Team Training 3x Per Week ,59,cancelled,3/4/2019,10/17/2019,1
+Wesley,Female,306 Lane,Olympia,Wa,98501,1974,Facebook,6 week challenge bi weekly,100,cancelled,4/26/2019,5/25/2019,1
+Vincent,Female,307 Lane,Olympia,Wa,98501,1974,Facebook,Team Training 3x Per Week ,199,cancelled,4/26/2019,8/7/2020,1
+Alexandra,Female,308 Lane,,,98584,1985,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/21/2019,4/10/2019,1
+Katrina,Female,309 Lane,,,98584,1985,Facebook,Team Training 2x per week 6 month commitment,89,cancelled,2/21/2019,10/9/2019,1
+Bethany,Female,,,,,1989,Facebook,6 week challenge bi weekly,100,cancelled,7/1/2019,,1
+Nichole,Female,,,,98513,1995,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/25/2019,4/18/2019,1
+Larry,Female,,Olympia,WA,98506,1977,Facebook,2x per week disount family ,165,cancelled,5/7/2016,,1
+Jeffery,Not Specified,,Olympia,WA,98502,1980,Facebook,Semi Private 1x per week  Small Group ,199,cancelled,5/17/2016,10/7/2016,1
+Curtis,Female,,,,98503,1977,Facebook,6 week challenge bi weekly 2x per week semi ,150,cancelled,11/11/2019,1/18/2020,1
+Carrie,Female,,,,,,Facebook,Semi private 2x per week weekly payment ,75,cancelled,10/23/2021,11/17/2021,1
+Todd,Female,316 Lane,,,98433,1983,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,2/24/2019,4/11/2019,1
+Blake,Female,317 Lane,,,98433,1983,Facebook,Team Training 3x Per Week ,59,cancelled,2/24/2019,10/2/2019,1
+Christian,Female,318 Lane,,,,1984,Facebook,6 week challenge weekly deposit ,50,cancelled,4/29/2019,,1
+Randy,Female,319 Lane,,,98501,1975,Facebook,Team Training ,59,cancelled,5/3/2019,1/2/2020,1
+Dennis,Female,320 Lane,,,98501,1975,Facebook,Team Training Family discount couple,129,cancelled,5/3/2019,8/30/2021,1
+Alison,Female,321 Lane,,,98584,1974,Facebook,6 week Challenge deposit PIF,299,cancelled,2/28/2019,4/15/2019,1
+Trevor,Female,322 Lane,,,98584,1994,Facebook,Semi Private Elite 3x Per Week ,349,cancelled,12/9/2019,2/27/2020,1
+Seth,Female,,,,98502,1989,Facebook,Team Training ,79,cancelled,2/24/2019,6/7/2019,1
+Kara,Female,,,,,,Facebook,6 week challenge weekly deposit ,50,cancelled,4/30/2019,,1
+Joanna,Male,325 Lane,,,98589,1968,Facebook,Semi Private Perfomance 2x Per Week,299,cancelled,11/12/2019,12/12/2019,1
+Rachael,Female,,,,98503,1981,Facebook,Semi Private Elite 3x Per Week ,399,cancelled,10/22/2020,12/30/2020,1
+Luke,Not Specified,,Olympia,WA,98501,,Facebook,Team Training 3x Per Week ,109,cancelled,5/11/2016,9/7/2016,1
+Felicia,Not Specified,,Olympia,WA,98501,,Facebook,Team Training ,129,cancelled,5/11/2016,1/30/2017,1
+Brooke,Female,,,,98501,1969,Facebook,6 week challenge weekly deposit ,25,cancelled,2/15/2020,2/23/2020,1
+Austin,Female,,,,98579,1969,Facebook,6 week challenge bi weekly,100,cancelled,4/27/2019,10/16/2019,1
+Candace,Female,,,,98501,1969,Facebook,Semi Private Elite 3x Per Week ,299,cancelled,4/16/2019,3/13/2020,1
+Jasmine,Female,,,,98512,1966,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,4/6/2019,,1
+Jesus,Female,333 Lane,,,,,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,4/3/2019,,1
+Alan,Female,334 Lane,,,,,Facebook,Team Training 2x per week 6 month commitment,89,cancelled,10/19/2021,10/25/2021,1
+Susan,Female,335 Lane,,,99840,1982,Facebook,Semi Private Elite 3x Per Week ,379,cancelled,11/6/2019,2/7/2020,1
+Sandra,Female,336 Lane,,,98594,1983,Facebook,Team Training ,59,cancelled,4/15/2019,2/12/2020,1
+Tracy,Female,337 Lane,,,,1983,Facebook,Team Training ,129,cancelled,10/11/2018,12/28/2019,1
+Kayla,Not Specified,338 Lane,,,,,Facebook,Team Training 3x Per Week ,59,cancelled,4/10/2019,9/27/2019,1
+Nancy,Female,339 Lane,,,98503,1984,Facebook,6 week Challenge deposit PIF,299,cancelled,3/30/2019,5/20/2019,1
+Tina,Female,,,,,,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,5/20/2019,,1
+Krystle,Female,341 Lane,,,,,Facebook,Team Training ,99,cancelled,4/22/2021,5/5/2021,1
+Russell,Female,342 Lane,,,98502,1974,Facebook,6 week challenge bi weekly,100,cancelled,6/26/2019,8/5/2019,0
+Jeremiah,Female,343 Lane,,,98502,1974,Facebook,Team Training 2x per week 6 month commitment,89,cancelled,6/26/2019,3/11/2020,0
+Carl,Female,344 Lane,,,98516,1995,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/5/2019,4/21/2019,0
+Miguel,Female,,,,98502,1966,Facebook,Team Training ,129,cancelled,8/1/2019,9/19/2020,1
+Tony,Female,346 Lane,,,98512,1988,Facebook,Team Training ,129,cancelled,11/9/2019,1/5/2020,1
+Alexis,Female,347 Lane,,,,,Facebook,Semi Private Perfomance 2x Per Week,299,cancelled,10/28/2019,12/7/2019,1
+Gina,Female,348 Lane,,,,,Facebook,Team Training ,129,cancelled,10/28/2019,2/1/2020,1
+Jillian,Female,,,,,1967,Facebook,Team Training 3x per week month to month,29,cancelled,2/17/2019,7/17/2019,1
+Pamela,Female,350 Lane,,,,1992,Facebook,6 week challenge  deposit 2 half payments ,150,cancelled,3/21/2019,,1
+Mitchell,Female,,,,98509,1964,Facebook,Semi Private Perfomance 2x Per Week,299,cancelled,2/1/2020,2/25/2020,1
+Hannah,Female,352 Lane,Olympia ,Wa,98502,1995,Facebook,6 week challenge bi weekly,200,cancelled,4/27/2019,,1
+Renee,Female,353 Lane,Olympia ,Wa,98502,1995,Facebook,Team Training Month to Month Commitment,149,cancelled,4/27/2019,2/12/2020,1
+Denise,Female,,,,98501,1961,Facebook,6 week challenge weekly 3x semi,99,cancelled,3/4/2020,3/14/2020,1
+Molly,Female,,,,98501,1961,Facebook,Semi Private Elite 3x Per Week ,399,cancelled,3/4/2020,5/12/2021,1
+Jerry,Female,,,,98589,1975,Facebook,Semi private 2x per week weekly payment ,75,cancelled,1/2/2020,3/14/2020,1
+Misty,Female,,,,98563,1974,Facebook,Team Training ,79,cancelled,3/18/2019,8/21/2019,1
+Mario,Female,,,,98589,1975,Facebook,Semi private 3x per week weekly payment ,50,cancelled,1/25/2021,7/12/2021,1
+Johnathan,Female,,Olympia,WA,98512,1967,Facebook,Team Training ,129,cancelled,5/31/2016,8/4/2021,1
+Jaclyn,Not Specified,,,,,,Facebook,Team Training ,104,cancelled,5/17/2016,6/5/2017,1
+Brenda,Female,,,,98557,1981,Facebook,Semi Private Perfomance 2x Per Week,299,cancelled,10/12/2019,10/17/2019,1
+Terry,Not Specified,362 Lane,,,98597,1991,Facebook,Team Training ,129,cancelled,3/4/2019,6/7/2019,1
+Lacey,Not Specified,363 Lane,,,98597,1991,Facebook,Team Training 3x Per Week ,109,cancelled,3/4/2019,3/22/2020,1
+Shaun,Female,364 Lane,,,,1988,Facebook,6 week challenge weekly deposit ,20,cancelled,11/6/2019,11/14/2019,1
+Devin,Female,365 Lane,,,,1971,Facebook,6 week challenge  deposit 2 half payments ,100,cancelled,2/21/2019,4/10/2019,1
+Heidi,Female,,,,,,Facebook,30 Day Trial Membership ,87,cancelled,1/30/2020,2/8/2020,1
+Troy,Female,367 Lane,,,,1990,Facebook,Semi Private Elite 3x Per Week ,399,cancelled,10/21/2019,10/28/2019,1
+Lucas,Female,,,,,1990,Facebook,Semi private 3x per week weekly payment ,49,cancelled,10/21/2019,11/10/2019,1
+Desiree,Female,369 Lane,,,98512,1988,Facebook,Indie Membership 6 Month Commitment,79,cancelled,2/25/2019,5/5/2019,1
+Jorge,Female,,Shelton ,Wa,98584,1973,Facebook,Semi Private 3x Per Week Bi Weekly pmt,180,cancelled,10/16/2019,7/2/2020,1
+Andre,Male,,Lacey,WA,98503,1980,Facebook - null,Team Training ,79,cancelled,3/2/2019,4/26/2019,0
+Morgan,Female,,Olympia ,WA,98506,1981,Facebook - null,Team Training 3x Per Week ,59,cancelled,3/27/2019,10/2/2019,1
+Drew,Female,,Centralia,Wa,98531,1984,Facebook - null,6 week Challenge deposit PIF,299,cancelled,4/6/2019,4/14/2019,0
+Sabrina,Female,,Olympia,Wa,98501,1969,Facebook - null,Team Training ,129,cancelled,3/31/2019,3/24/2020,1
+Miranda,Female,375 Lane,Tumwater,Wa,98511,1989,Facebook - null,6 week challenge  deposit 2 half payments ,150,cancelled,2/26/2019,4/13/2019,0
+Alyssa,Female,376 Lane,Tumwater ,WA,98501,1972,Facebook - null,Team Training ,79,cancelled,2/27/2019,10/24/2019,1
+Alisha,Female,377 Lane,Tumwater ,WA,98501,1972,Facebook - null,Team Training 3x Per Week ,109,cancelled,2/27/2019,1/2/2020,1
+Teresa,Female,378 Lane,Lacey,Wa,98516,1993,Facebook - null,6 week Challenge deposit PIF,299,cancelled,3/23/2019,4/9/2019,1
+Johnny,Female,379 Lane,Skokomish,Wa,98584,1968,Facebook - null,Team Training ,29,cancelled,4/9/2019,2/12/2020,1
+Meagan,Female,380 Lane,Shelton ,WA,98584,1987,Google,Semi Private Elite 3x Per Week ,399,cancelled,2/26/2021,8/8/2021,1
+Allen,Not Specified,,Olympia,WA,98516,1982,Google,Team Training ,119,cancelled,11/11/2016,5/10/2017,1
+Krista,Not Specified,,Olympia,WA,98516,1982,Google,Precision Nutrition ProCoach Program member rate ,25,cancelled,11/11/2016,,1
+Marc,Female,,,,98512-2471,1978,Google,Team Training 3x Per Week ,109,cancelled,5/1/2019,10/14/2019,1
+Tabitha,Female,,,,98597,1979,Other - lead list,6 week challenge weekly deposit ,50,cancelled,1/16/2021,3/9/2021,1
+Lance,Female,,,,98532,1987,Other - walk in ,Team Training 3x Per Week ,109,cancelled,9/18/2019,3/14/2020,1
+Ricardo,Male,,,,98541,1990,Staff Member,Team Training ,79,cancelled,8/22/2019,9/1/2019,1
+Martin,Female,,,Ol,98502,1988,Staff Member,Team Training ,79,cancelled,9/4/2019,1/5/2020,1
+Chase,Female,,,,98512,1992,Staff Member,6 week Challenge deposit PIF,299,cancelled,8/26/2019,10/22/2019,1
+Theresa,Male,,,,,1992,Staff Member,Semi Private Elite 3 Month Commitment,469,cancelled,5/24/2019,10/22/2019,1
+Melinda,Female,,Tumwater ,Wa,98512,1983,Staff Member,Team Training ,79,cancelled,5/18/2019,11/12/2019,0
+Monique,Female,,Tumwater ,Wa,98512,1983,Staff Member,Team Training ,79,cancelled,5/18/2019,10/4/2020,0
+Tanya,Female,,Tumwater ,Wa,98512,1983,Staff Member,Team Training ,79,cancelled,5/18/2019,7/13/2021,0
+Linda,Female,,Olympia,Wa,98502,1971,Staff Member,Semi Private Elite 3x Per Week ,349,cancelled,6/1/2019,12/10/2019,1
+Kristopher,Female,,Olympia,Wa,98502,1971,Staff Member,1 Year Paid in Full Semi 3x black friday ,3840,cancelled,6/1/2019,8/27/2020,1
+Bobby,Female,395 Lane,,,,1983,Staff Member,Semi Private Elite 3 Month Commitment,499,cancelled,7/15/2019,10/15/2019,1
+Caleb,Female,396 Lane,,,98597,1978,Staff Member,6 week challenge  deposit 2 half payments ,125,cancelled,2/19/2019,4/9/2019,1
+Ashlee,Female,397 Lane,,,98597,1978,Staff Member,Team Training ,95,cancelled,2/19/2019,2/12/2020,1
+Kelli,Male,398 Lane,,,98584,1989,Staff Member,Team Training ,79,cancelled,5/23/2019,5/27/2019,1
+Henry,Male,,,,98584,1989,Staff Member,Team Training ,79,cancelled,5/23/2019,10/17/2019,1
+Garrett,Female,400 Lane,,,,1994,Staff Member,6 week challenge bi weekly,100,cancelled,8/26/2019,11/3/2019,1
+Mallory,Not Specified,401 Lane,,,98502,1981,Staff Member,Team Training 3x Per Week ,109,cancelled,7/12/2019,5/8/2020,0
+Jill,Not Specified,,,,98502,1982,Staff Member,30 Day Trial Membership ,87,cancelled,8/29/2019,9/9/2019,0
+Jonathon,Not Specified,403 Lane,,,98502,1982,Staff Member,Team Training ,79,cancelled,8/29/2019,1/2/2020,0
+Kristy,Not Specified,404 Lane,,,98502,1982,Staff Member,Team Training 3x Per Week ,59,cancelled,8/29/2019,1/12/2020,0
+Anne,Female,405 Lane,,,98512,1954,Staff Member,Team Training ,129,cancelled,5/24/2019,1/11/2021,1
+Francisco,Not Specified,406 Lane,,,98541,1993,Staff Member,Team Training ,79,cancelled,8/22/2019,9/1/2019,0
+Danny,Not Specified,407 Lane,,,98501,1967,Staff Member,Semi Private Elite 3x Per Week ,399,cancelled,8/29/2019,2/6/2020,1
+Robin,Not Specified,,SKOK,WA,98584,1955,Staff Member,Team Training 3x Per Week ,59,cancelled,3/6/2020,1/16/2022,1
+Lee,Not Specified,409 Lane,,,98584,1981,Staff Member,Semi Private Elite 3x Per Week ,399,cancelled,8/19/2019,10/25/2019,1
+Tamara,Not Specified,410 Lane,,,,1969,Staff Member,Semi Private Performance 3 Month commitment,349,cancelled,5/26/2019,3/16/2020,1
+Manuel,Not Specified,411 Lane,,,,1969,Staff Member,Small Group Personal Training,199,cancelled,5/26/2019,7/31/2021,1
+Meredith,Not Specified,,,,98502,1972,Staff Member,Semi Private Elite 3x Per Week ,399,cancelled,9/17/2019,2/15/2020,1
+Colleen,Male,,SKOK,WA,98584,1973,Walk-In,Team Training ,87,cancelled,5/11/2016,10/27/2017,1
+Lawrence,Male,,SKOK,WA,98584,1973,Walk-In,Precision Nutrition ProCoach Program member rate ,25,cancelled,5/11/2016,,1
+Christy,Male,,SKOK,WA,98584,1973,Walk-In,Online nutrition and training current member family rate,60,cancelled,5/11/2016,,1
+Ricky,Not Specified,,,,,,Walk-In,Team Training ,129,cancelled,6/1/2016,2/25/2017,1
+Randall,Female,,Olympia,WA,98512,1968,Walk-In,Semi Private Perfomance 2x Per Week,249,cancelled,5/9/2016,10/22/2021,0
+Marissa,Not Specified,,,,,1984,Walk-In,Team Training ,104,cancelled,5/12/2016,6/15/2017,1
+Ross,Not Specified,,,,,,Walk-In,Team Training ,129,cancelled,7/6/2016,9/16/2016,1
+Mathew,Not Specified,,,,,,Walk-In,Team Training 3x Per Week ,84,cancelled,5/11/2016,12/30/2016,1
+Jimmy,Not Specified,421 Lane,Olympia,WA,98501,,Walk-In,Team Training ,129,cancelled,5/18/2016,8/19/2016,1
+Abigail,Not Specified,422 Lane,Olympia,WA,98502,,Walk-In,Team Training 3x Per Week ,84,cancelled,5/19/2016,1/11/2017,1
+Kendra,Not Specified,423 Lane,,,,1966,Walk-In,Team Training ,129,cancelled,6/1/2016,8/6/2019,1
+Carolyn,Not Specified,424 Lane,Chehalis,WA,98532,1983,Website  Blog,Team Training 3x per week month to month,129,cancelled,10/3/2019,12/17/2019,1
+Billy,Not Specified,425 Lane,,,98506,1992,Website  Blog,Team Training ,129,cancelled,2/19/2021,3/1/2021,1
+Deanna,Female,,,,98501,1991,,Team Training ,129,cancelled,6/8/2017,12/3/2019,1
+Jenny,Not Specified,427 Lane,,,,1974,,Team Training ,119,cancelled,6/2/2016,7/12/2017,1
+Jon,Female,,,,98502,1973,,YouthFamily Member discount ,65,cancelled,5/9/2016,9/20/2016,1
+Albert,Male,,,,,,,Team Training 2x per week,79,cancelled,2/3/2017,2/25/2017,1
+Taylor,Female,,,,,1990,,demo,0,cancelled,5/10/2016,5/11/2016,0
+Lori,Female,431 Lane,,,,1990,,Team Training 3x Per Week ,79,cancelled,5/10/2016,1/25/2020,0
+Rebekah,Female,432 Lane,,,,,,Team Training 2x per week  pn nutrition ,99,cancelled,8/6/2016,7/13/2017,1
+Cameron,Female,433 Lane,,,,1980,,1 on 1 pt 2x per week 3mo ,440,cancelled,8/10/2018,8/6/2019,1
+Ebony,Female,434 Lane,,,,,,Precision Nutrition ProCoach Program member rate ,25,cancelled,1/6/2017,5/27/2020,1
+Wendy,Female,435 Lane,,,,,,Team Training ,129,cancelled,1/6/2017,5/27/2020,1
+Angel,Female,436 Lane,,,,,,Team Training ,119,cancelled,1/6/2017,5/27/2020,1
+Micheal,Female,437 Lane,,,,,,Team Training 2x per week,69,cancelled,1/6/2017,12/30/2017,1
+Kristi,Not Specified,438 Lane,,,,1983,,6 Week Challenge 2x per week semi private weekly payments ,62.25,cancelled,6/10/2016,,1
+Caroline,Not Specified,,,,,1983,,Team Training ,129,cancelled,6/10/2016,4/11/2017,1
+Colin,Not Specified,,,,,1983,,Semi private 2x per week weekly payment ,62.25,cancelled,6/10/2016,12/14/2017,1
+Dawn,Not Specified,441 Lane,,,,1983,,Semi Private Perfomance 2x Per Week,299,cancelled,6/10/2016,5/31/2019,1
+Kari,Not Specified,442 Lane,,,,1983,,Semi Private Perfomance 2x Per Week,249,cancelled,6/10/2016,5/14/2019,1
+Clayton,Not Specified,443 Lane,,,,1983,,Team Training ,129,cancelled,6/10/2016,6/9/2021,1
+Arthur,Not Specified,,,,,1999,,Team Training 3x per week month to month,79,cancelled,7/12/2019,8/11/2019,1
+Roger,Male,,,,,1980,,Team Training ,129,cancelled,2/11/2018,8/8/2018,0
+Roberto,Male,,,,98512-2446,,,Team Training ,129,cancelled,3/19/2016,3/18/2016,1
+Priscilla,Female,,,,98512,1982,,Team Training 3x Per Week bi weekly ,55,cancelled,5/10/2016,7/5/2016,1
+Darren,Female,,,,98512,1982,,Team Training ,129,cancelled,5/10/2016,11/15/2017,1
+Kelsey,Female,449 Lane,,,98512,1982,,Team Training 2x per week,79,cancelled,5/10/2016,1/5/2018,1
+Clinton,Not Specified,450 Lane,,,,,,Team Training 3x Per Week ,79,cancelled,5/10/2016,10/4/2018,1
+Walter,Not Specified,451 Lane,,,,,,6 week challenge weekly payments ,32.25,cancelled,5/23/2016,,1
+Louis,Not Specified,452 Lane,Centralia,WA,98531,,,Team Training ,129,cancelled,6/1/2016,11/4/2016,1
+Barbara,Not Specified,453 Lane,,,,1982,,Team Training ,129,cancelled,4/17/2018,5/29/2018,0
+Isaac,Not Specified,,,,,,,YouthFamily Member discount ,65,cancelled,5/10/2016,8/7/2018,1
+Cassie,Female,,,,,2006,,Team Training ,99,cancelled,10/5/2020,11/5/2020,1
+Grant,Female,,,,,,,Team Training 3x Per Week ,109,cancelled,7/9/2016,5/3/2017,1
+Cristina,Female,,,,98516,1977,,Team Training 3x Per Week ,59,cancelled,10/10/2017,11/25/2019,1
+Tonya,Male,,Olympia,WA,98502,1986,,SpeakingWorkshop,300,cancelled,3/22/2016,3/22/2016,0
+Rodney,Female,,Olympia,Wa,98502,1961,,Team Training ,129,cancelled,6/17/2016,3/7/2020,1
+Bridget,Not Specified,,,,,,,6 week challenge  deposit 2 half payments ,96.75,cancelled,6/7/2016,,1
+Joe,Male,,Olympia,WA,98502,1997,,Team Training 3x Per Week ,84,cancelled,11/7/2018,2/4/2019,0
+Cindy,Female,,,,98516-3115,1984,,Team Training ,129,cancelled,9/26/2016,7/10/2019,1
+Oscar,Female,,,,98516-3115,1984,,Team Training ,129,cancelled,9/26/2016,6/8/2020,1
+Willie,Male,,,,98503,1970,,Live Virtual Training ,80,cancelled,5/30/2019,5/13/2020,1
+Maurice,Not Specified,465 Lane,,,,,,Team Training ,129,cancelled,3/19/2016,6/21/2017,1
+Jaime,Not Specified,466 Lane,,,,,,YouthFamily Member discount ,65,cancelled,3/19/2016,9/22/2016,1
+Angelica,Female,467 Lane,,,,1994,,6 week challenge  deposit 2 half payments ,125,cancelled,2/21/2019,4/9/2019,1
+Sharon,Male,468 Lane,,,98512,1981,,Team Training ,99,cancelled,4/17/2019,8/1/2020,1
+Julian,Female,469 Lane,TUMWATER,WA,98512,1984,,Team Training 3x Per Week ,79,cancelled,6/12/2018,11/17/2021,1
+Jack,Female,470 Lane,,,,1981,,Indie Membership 6 Month Commitment,79,cancelled,7/6/2016,1/20/2018,1
+Jay,Female,,,,,1981,,Indie Membership 6 Month Commitment,49,cancelled,7/6/2016,11/24/2019,1
+Calvin,Female,472 Lane,,,,,,Team Training ,99,cancelled,4/10/2017,6/16/2017,1
+Marie,Not Specified,473 Lane,,,,1985,,Team Training ,129,cancelled,9/11/2017,2/10/2018,1
+Hector,Female,,,,,,,Personal Training 3x per Week ,699,cancelled,10/31/2016,12/3/2016,1
+Kate,Female,475 Lane,,,,,,Semi Private Elite 3 Month Commitment,349,cancelled,10/31/2016,2/4/2017,1
+Adrienne,Female,476 Lane,,,,,,Semi Private Perfomance 2x Per Week,249,cancelled,10/31/2016,8/23/2017,1
+Tasha,Female,477 Lane,,,98584,1965,,Team Training Month to Month Commitment,119,cancelled,3/4/2019,8/31/2016,1
+Michele,Female,478 Lane,,,,1985,,12 week challenge team weekly ,37,cancelled,3/1/2017,,0
+Ana,Female,479 Lane,,,,1985,,12 week challenge monthly ,105,cancelled,3/1/2017,,0
+Stefanie,Female,480 Lane,,,,1985,,Team Training Family discount couple,159,cancelled,3/1/2017,3/25/2018,0
+Cara,Female,481 Lane,Olympia,,98512,1979,,Team Training 3x Per Week ,109,cancelled,5/2/2016,4/17/2018,1
+Alejandro,Female,,Olympia,Wa,98502,1992,,Live Virtual Training 1x per week,60,cancelled,3/25/2020,9/16/2020,1
+Ruben,Female,,,,98502,1996,,Semi Private 3x Per Week Bi Weekly pmt,150,cancelled,9/12/2019,12/27/2019,1
+Gerald,Female,,,,98502,1996,,Indie Membership 6 Month Commitment,59,cancelled,9/12/2019,2/5/2020,1
+Audrey,Not Specified,485 Lane,Olympia,WA,98506,1976,,Team Training ,129,cancelled,5/13/2016,2/7/2019,0
+Kristine,Female,486 Lane,,,,1984,,Semi private special ,1,cancelled,10/17/2018,1/5/2020,1
+Ann,Male,,,,98502,1994,,Team Training ,79,cancelled,3/9/2019,8/8/2020,1
+Shana,Not Specified,,,,,,,6 Week Challenge 2x per week semi private weekly payments ,62.25,cancelled,6/10/2016,,1
+Javier,Not Specified,,,,,,,12 week challenge team weekly ,32,cancelled,3/18/2017,,1
+Katelyn,Not Specified,,,,,,,12 week challenge monthly ,128,cancelled,3/18/2017,,1
+Brianna,Female,,,,98513,2019,,Team Training 3x Per Week ,59,cancelled,2/26/2019,2/12/2020,1
+Bruce,Female,,,,98502,1993,,Team Training ,52,cancelled,5/19/2019,2/15/2021,1
+Deborah,Female,493 Lane,,,98501,1981,,Team Training 2x per week,79,cancelled,11/17/2017,12/22/2017,0
+Claudia,Female,,,,98506,1959,,Team Training 3x Per Week ,109,cancelled,5/17/2016,12/18/2017,1
+Carla,Female,,,,98506,1959,,Team Training 3x Per Week ,129,cancelled,5/17/2016,10/13/2021,1
+Wayne,Female,,,,,,,Team Training ,119,cancelled,12/13/2016,7/23/2017,1
+Roy,Not Specified,497 Lane,,,,1986,,Semi Private Perfomance 2x Per Week,199,cancelled,1/13/2021,2/9/2021,1
+Virginia,Female,498 Lane,,,,,,12 week challenge monthly ,128,cancelled,3/2/2017,,1
+Haley,Female,499 Lane,,,,,,12 week challenge monthly ,148,cancelled,3/2/2017,,1
+Brendan,Not Specified,500 Lane,,,,,,Team Training ,119,cancelled,5/9/2016,1/10/2018,0
+Janelle,Not Specified,501 Lane,,,,,,8 Week Challenge Team Training Access,118,cancelled,9/28/2016,11/15/2016,1
+Jacquelyn,Not Specified,502 Lane,Olympia,WA,98501,,,Team Training 3x Per Week ,89,cancelled,6/1/2016,11/7/2016,1
+Beth,Not Specified,503 Lane,,,,,,Team Training 3x Per Week ,109,cancelled,1/3/2017,3/12/2018,1
+Edwin,Female,,,,98502,1961,,Team Training ,79,cancelled,5/19/2019,2/15/2021,1
+Dylan,Female,,,,98513,1959,,Team Training 2x per week 6 month commitment,64,cancelled,2/19/2020,8/18/2020,1
+Dominic,Female,,,,,1981,,Team Training ,129,cancelled,11/11/2019,10/1/2020,1
+Latasha,Female,,,,,,,Team Training 3x Per Week ,109,cancelled,12/8/2016,11/19/2017,0
+Darrell,Male,,Olympia,WA,98512,1959,,Indie Membership 6 Month Commitment,95,cancelled,5/14/2016,9/19/2020,1
+Geoffrey,Female,,,,,1995,,Team Training Month to Month Commitment,56,cancelled,3/3/2020,3/31/2020,1
+Savannah,Female,510 Lane,,,98584,1969,,Team Training 3x Per Week ,89,cancelled,9/26/2016,10/18/2018,1
+Reginald,Female,511 Lane,,,98584,1969,,Team Training 2x per week 6 month commitment,64,cancelled,9/26/2016,3/16/2020,1
+Carly,Female,512 Lane,,,98584,1969,,Team Training ,104,cancelled,9/26/2016,7/13/2021,1
+Fernando,Not Specified,,,,,1982,,8 week challenge bi-weekly 1x per week semi ,100,cancelled,1/30/2018,,0
+Ashleigh,Female,,,,,,,Semi Private Performance 3 Month commitment,269,cancelled,7/13/2016,9/26/2016,1
+Aimee,Female,,Tumwater,WA,98512,1995,,Team Training ,99,cancelled,9/18/2018,9/18/2019,1
+Regina,Female,,,,,,,30 Day Trial Membership ,87,cancelled,10/18/2016,11/7/2016,1
+Mandy,Female,,,,98502,1980,,Team Training ,79,cancelled,5/23/2019,8/14/2019,1
+Sergio,Not Specified,,,,,,,Semi Private Performance 3 Month commitment,224,cancelled,5/16/2017,7/12/2017,1
+Rafael,Not Specified,519 Lane,,,,,,Team Training ,104,cancelled,5/9/2016,7/27/2018,0
+Pedro,Female,520 Lane,,,,1991,,Team Training ,129,cancelled,7/22/2017,12/15/2017,0
+Janet,Not Specified,521 Lane,,,,,,Team Training ,101,cancelled,5/11/2016,9/1/2016,0
+Kaitlin,Not Specified,522 Lane,,,,,,Team Training ,104,cancelled,5/11/2016,9/1/2016,0
+Frederick,Not Specified,523 Lane,,,,,,Team Training ,129,cancelled,5/11/2016,1/9/2017,0
+Cheryl,Not Specified,524 Lane,,,,,,Team Training ,129,cancelled,5/11/2016,1/31/2017,0
+Autumn,Not Specified,525 Lane,,,,,,Team training bi weekly ,70,cancelled,5/11/2016,6/21/2018,0
+Tyrone,Not Specified,526 Lane,,,,,,Precision Nutrition ProCoach Program member rate ,25,cancelled,5/11/2016,,0
+Martha,Male,,,,98512,2003,,YouthFamily Member discount ,40,cancelled,7/10/2019,1/4/2020,1
+Omar,Female,,,,,1963,,Team Training 2x per week 6 month commitment,89,cancelled,9/24/2019,11/25/2019,1
+Lydia,Not Specified,,,,,1963,,Live Virtual Training 1x per week,60,cancelled,5/17/2020,6/17/2020,0
+Jerome,Not Specified,,,,,1974,,Team Training Month to Month Commitment,149,cancelled,1/24/2018,4/12/2018,0
+Theodore,Not Specified,,,,,1974,,Team Training 2x per week,79,cancelled,1/24/2018,5/10/2018,0
+Abby,Male,,,,,,,Team Training ,129,cancelled,1/4/2017,1/20/2018,0
+Neil,Male,533 Lane,,,,,,8 week challenge weekly semi ,65,cancelled,9/24/2016,,1
+Shawna,Female,,Olympia,WA,98503,1985,,Team Training ,129,cancelled,8/12/2016,1/23/2017,0
+Sierra,Female,,Olympia,WA,98503,1985,,Precision Nutrition ProCoach Program member rate ,25,cancelled,8/12/2016,,0
+Nina,Female,,Olympia,WA,98503,1985,,Semi Private Performance 3 Month commitment,349,cancelled,8/12/2016,5/27/2019,0
+Tammy,Not Specified,537 Lane,,,,1974,,Team Training 3x Per Week ,109,cancelled,6/18/2016,1/20/2018,1
+Nikki,Female,,,,,,,Team Training 3x Per Week ,109,cancelled,8/15/2016,12/13/2017,0
+Terrance,Female,,Olympia,WA,98512,1976,,6 week challenge  deposit 2 half payments ,96.75,cancelled,5/3/2018,,0
+Donna,Female,,Olympia,WA,98512,1976,,Team Training 2x per week,79,cancelled,5/3/2018,7/8/2018,0
+Claire,Female,541 Lane,,,,1976,,Semi Private 3x Per Week Bi Weekly pmt,149.5,cancelled,1/12/2018,1/11/2018,0
+Cole,Female,542 Lane,,,,1976,,Semi Private 3x Per Week Bi Weekly pmt,149.5,cancelled,1/12/2018,1/26/2018,0
+Trisha,Female,543 Lane,,,,1976,,Semi Private 1x per week bi weekly ,100,cancelled,1/12/2018,1/26/2018,0
+Bonnie,Not Specified,544 Lane,,,,1962,,6 week challenge weekly payments ,32.25,cancelled,5/1/2018,,0
+Diane,Not Specified,,Olympia,WA,98501,1978,,Team Training ,129,cancelled,5/10/2016,3/21/2019,1
+Summer,Not Specified,,Olympia,WA,98501,1978,,Team Training 2x per week 6 month commitment,89,cancelled,5/10/2016,12/16/2019,1
+Carmen,Female,,,,,1981,,Semi Private Perfomance 2x Per Week,249,cancelled,10/11/2016,6/1/2017,1
+Mayra,Not Specified,548 Lane,,,,1978,,6 week challenge bi weekly,100,cancelled,5/7/2018,10/17/2019,1
+Jermaine,Female,,,,98557,1984,,Fitness Ablaze Online Fitness Program Design ,39,cancelled,1/22/2022,1/21/2022,1
+Eddie,Female,,Yelm,WA,98597,1977,,Team Training 3x Per Week ,109,cancelled,8/7/2018,8/26/2018,0
+Micah,Not Specified,,,,,1982,,6 week challenge bi weekly 3x per week semi ,125,cancelled,10/22/2018,,0
+Marvin,Not Specified,552 Lane,,,,,,semi private 2x per week ,125,cancelled,5/11/2016,7/21/2017,1
+Levi,Female,553 Lane,,,,,,8 week challenge weekly semi ,75,cancelled,1/14/2017,,1
+Emmanuel,Female,554 Lane,,,,,,8 week challenge weekly semi ,75,cancelled,1/14/2017,,1
+Brad,Female,555 Lane,Olympia,WA,98512,1994,,Semi private 3x per week weekly payment ,49,cancelled,2/1/2021,5/12/2021,1
+Taryn,Female,556 Lane,,,,,,Team Training 2x per week,79,cancelled,2/3/2017,4/16/2017,1
+Toni,Not Specified,557 Lane,,,,,,Team Training ,109,cancelled,5/9/2016,6/22/2017,1
+Jessie,Not Specified,558 Lane,,,98520,1986,,Remote 1 on 1 Coaching Program ,199,cancelled,8/18/2020,3/18/2021,1
+Evelyn,Not Specified,559 Lane,,,,,,Team Training 1x per week ,40,cancelled,2/5/2021,4/19/2021,0
+Darryl,Not Specified,560 Lane,,,,,,Team Training ,129,cancelled,5/13/2016,7/24/2017,1
+Ronnie,Female,561 Lane,,,,,,Semi Private Perfomance 2x Per Week,249,cancelled,1/25/2017,4/19/2017,1
+Joy,Female,,,,98501,2010,,Team Training 1x per week ,40,cancelled,3/9/2021,7/13/2021,0
+Adriana,Female,,,,98501,2010,,Team Training 1x per week ,40,cancelled,3/9/2021,7/13/2021,0
+Ruth,Not Specified,,,,,,,Semi Private 3x Per Week Bi Weekly pmt,124.5,cancelled,5/14/2016,5/3/2017,1
+Mindy,Not Specified,565 Lane,,,,,,Precision Nutrition ProCoach Program member rate ,25,cancelled,5/14/2016,,1
+Spencer,Not Specified,566 Lane,,,,,,8 Week Challenge 2x per week semi private ,250,cancelled,1/30/2018,,0
+Noah,Not Specified,567 Lane,,,,1990,,Team Training Family discount couple,199,cancelled,6/10/2021,9/12/2021,1
+Raul,Not Specified,568 Lane,,,,,,6 week challenge weekly payments ,32.25,cancelled,3/25/2019,,1
+Suzanne,Not Specified,569 Lane,,,,,,Team Training 3x Per Week ,109,cancelled,3/25/2019,10/4/2018,1
+Sophia,Not Specified,570 Lane,,,,,,6 week challenge  deposit 2 half payments ,150,cancelled,3/25/2019,5/20/2019,1
+Dale,Not Specified,571 Lane,,,,,,Team Training 3x Per Week ,59,cancelled,3/25/2019,10/22/2019,1
+Jodi,Female,572 Lane,Olympia ,Wa,98512,1972,,Team Training 3x Per Week ,109,cancelled,4/1/2019,11/1/2017,1
+Christie,Female,573 Lane,Olympia ,Wa,98512,1972,,Team Training 3x Per Week ,109,cancelled,4/1/2019,7/18/2017,1
+Raquel,Female,574 Lane,,,,,,12 week challenge bi weekly ,74,cancelled,3/1/2017,,1
+Naomi,Female,575 Lane,,,,,,Semi Private Perfomance 2x Per Week,249,cancelled,11/5/2016,8/23/2017,1
+Kellie,Female,576 Lane,,,98502,2019,,Team Training ,129,cancelled,9/26/2016,9/30/2020,1
+Ernest,Not Specified,,,,,,,Team Training ,107,cancelled,5/10/2016,3/7/2018,0
+Jake,Not Specified,,,,,1968,,Team Training ,109,cancelled,4/17/2018,10/31/2018,1
+Grace,Female,,Lacey,WA,98503,1982,,Team Training ,119,cancelled,8/11/2018,4/10/2019,1
+Tristan,Female,580 Lane,,,,,,Team Training ,54,cancelled,11/20/2016,10/19/2017,0
+Shanna,Female,581 Lane,,,,,,Team Training ,129,cancelled,9/22/2016,12/8/2017,0
+Hilary,Not Specified,582 Lane,,,,,,Team Training ,129,cancelled,4/28/2016,9/19/2016,1
+Eduardo,Not Specified,583 Lane,,,,,,Bi Weekly Payment unlimited team ,64.5,cancelled,5/10/2016,7/29/2016,1
+Ivan,Not Specified,584 Lane,Lacey,WA,98503,,,Team Training ,129,cancelled,5/13/2016,1/23/2017,1
+Hillary,Male,585 Lane,,,98502,1972,,Semi Private Elite 3x Per Week ,399,cancelled,7/20/2019,12/10/2019,1
+Yolanda,Male,,,,98502,1972,,1 Year Paid in Full Semi 3x black friday ,3840,cancelled,7/20/2019,8/27/2020,1
+Alberto,Female,,,,,,,Semi Private Perfomance 2x Per Week,249,cancelled,9/2/2016,6/1/2017,1
+Andres,Female,,,,,,,Semi Private Perfomance 2x Per Week,249,cancelled,9/24/2016,8/23/2017,1
+Olivia,Female,,,,,,,12 week challenge bi weekly ,74,cancelled,2/28/2017,,1
+Armando,Female,,,,,,,12 week challenge team weekly ,37,cancelled,2/28/2017,,1
+Paula,Female,591 Lane,,,,,,12 week challenge bi weekly ,74,cancelled,2/28/2017,,1
+Amelia,Not Specified,592 Lane,,,,,,Team Training ,129,cancelled,4/25/2016,8/23/2017,1
+Sheila,Not Specified,,,,,,,Team Training 2x per week,79,cancelled,5/28/2016,10/11/2016,1
+Rosa,Female,,,,,1984,,Indie Membership 6 Month Commitment,79,cancelled,5/11/2016,10/29/2016,1
+Robyn,Female,,,,,1984,,Team Training ,79,cancelled,5/11/2016,6/14/2020,1
+Kurt,Not Specified,596 Lane,,,,1959,,Semi Private Performance 3 Month commitment,299,cancelled,5/26/2019,1/2/2020,1
+Dane,Not Specified,597 Lane,,,,1959,,Semi Private Performance 3 Month commitment,299,cancelled,5/26/2019,5/25/2020,1
+Glenn,Not Specified,,,,,1959,,Small Group Personal Training,199,cancelled,5/26/2019,7/31/2021,1
+Nicolas,Female,,,,,,,Team Training ,129,cancelled,9/9/2016,4/17/2017,1
+Gloria,Not Specified,600 Lane,,,,,,Team Training ,99,cancelled,1/27/2017,1/31/2017,1
+Eugene,Female,601 Lane,,,,,,Team Training ,52,cancelled,9/9/2017,4/2/2018,0
+Logan,Female,602 Lane,Tumwater,WA,98501,1983,,Team Training 3x Per Week ,109,cancelled,5/2/2016,8/20/2016,1
+Steve,Female,603 Lane,Tumwater,WA,98501,1983,,Team Training ,129,cancelled,5/2/2016,10/4/2020,1
+Ramon,Female,,Tumwater,WA,98501,1983,,Semi Private Perfomance 2x Per Week,249,cancelled,5/2/2016,3/5/2017,1
+Bryce,Female,,Tumwater,WA,98501,1983,,Team Training ,80,cancelled,5/2/2016,9/8/2020,1
+Tommy,Female,606 Lane,Tumwater,WA,98501,1983,,Team Training 3x per week month to month,129,cancelled,5/2/2016,7/18/2021,1
+Preston,Female,607 Lane,,,98584,1992,,Team Training Month to Month Commitment,74,cancelled,3/9/2019,7/9/2019,0
+Keri,Female,608 Lane,,,,,,Team Training ,99,cancelled,9/15/2016,11/20/2017,0
+Devon,Female,609 Lane,Olympia ,,98513,1963,,Semi Private Perfomance 2x Per Week,249,cancelled,5/18/2016,3/31/2018,1
+Alana,Not Specified,610 Lane,,,,,,YouthHigh School Performance Training 6 Month Commitment,79,cancelled,5/23/2016,3/9/2018,0
+Marisa,Female,,,,98501,1986,,Semi Private Perfomance 2x Per Week,299,cancelled,3/4/2019,5/24/2019,1
+Melody,Female,,,,98501,1986,,Team Training 3x Per Week ,59,cancelled,3/4/2019,2/22/2020,1
+Rose,Female,,,,,1984,,Semi Private Elite 3x Per Week ,284,cancelled,5/9/2016,8/14/2016,1
+Barry,Male,,,,98512,1989,,Indie Membership 6 Month Commitment,49,cancelled,7/27/2019,9/23/2019,1
+Marco,Not Specified,,Olympia,WA,98512,,,team weekly 3x per week ,30,cancelled,3/20/2016,9/5/2016,1
+Karl,Male,,Olympia ,Wa,98512,1969,,Team Training ,129,cancelled,11/5/2021,11/30/2021,1
+Daisy,Not Specified,,,,,,,Team Training ,79,cancelled,3/6/2019,3/16/2019,1
+Leonard,Male,,,,,,,Team Training 3x Per Week ,67,cancelled,4/12/2017,12/1/2017,0
+Randi,Male,619 Lane,Lacey,WA,98503,1971,,Team Training 3x per week month to month,129,cancelled,4/28/2019,8/9/2019,1
+Maggie,Female,620 Lane,,,,,,Team Training Family discount couple,189,cancelled,5/3/2017,12/22/2017,0
+Charlotte,Female,621 Lane,,,,1970,,Team Training ,129,cancelled,4/12/2017,6/4/2019,1
+Emma,Female,622 Lane,,,,1970,,Team Training 2x per week 6 month commitment,89,cancelled,4/12/2017,7/19/2019,1
+Terrence,Not Specified,623 Lane,,,98502,1958,,6 week challenge  deposit 2 half payments ,96.75,cancelled,2/6/2018,2/26/2018,0
+Justine,Not Specified,624 Lane,,,98502,1958,,6 week challenge  deposit 2 half payments ,96.75,cancelled,2/6/2018,,0
+Britney,Female,625 Lane,,,,1971,,Team Training 3x Per Week ,105,cancelled,7/19/2016,11/4/2016,0
+Lacy,Female,626 Lane,,,,1971,,Team Training 2x per week,79,cancelled,7/19/2016,1/25/2018,0
+Jeanette,Female,,Tumwater,WA,98512,1998,,Team Training ,129,cancelled,9/19/2018,9/30/2019,1
+Francis,Female,,TUMWATER ,Wa,98501,1987,,Team Training 3x per week month to month,99,cancelled,4/18/2017,11/30/2019,1
+Tyson,Female,,,,98501,1984,,Team Training 3x Per Week ,109,cancelled,2/5/2019,7/31/2019,1
+Elise,Female,,,,98501,1984,,Team Training ,129,cancelled,2/5/2019,12/3/2019,1
+Sylvia,Female,,,,98501,1984,,Live Virtual Training ,80,cancelled,2/5/2019,6/3/2021,1
+Rachelle,Female,,,,98501,1984,,Team Training ,129,cancelled,2/5/2019,1/23/2022,1
+Stanley,Female,,,,,,,8 week challenge weekly team ,37,cancelled,9/24/2016,,1
+Debra,Female,634 Lane,Tumwater,WA,98501,1983,,6 week challenge  deposit 2 half payments ,96.75,cancelled,10/16/2018,,1
+Brady,Female,635 Lane,Tumwater,WA,98501,1983,,Team Training ,109,cancelled,10/16/2018,7/9/2019,1
+Charity,Male,636 Lane,,,,1968,,Semi Private Perfomance 2x Per Week,249,cancelled,1/18/2018,1/30/2018,0
+Hope,Male,,,,,1968,,Semi Private Perfomance 2x Per Week,219,cancelled,1/18/2018,1/17/2018,0
+Melvin,Male,638 Lane,,,,1968,,Semi Private Perfomance 2x Per Week,219,cancelled,1/18/2018,1/30/2018,0
+Johanna,Female,639 Lane,Shelton,Wa,98584,1975,,Fitness Ablaze Online Fitness Program Design ,39,cancelled,2/8/2022,2/8/2022,1
+Karla,Not Specified,640 Lane,,,98597,1983,,Team Training ,129,cancelled,3/6/2019,11/14/2016,1
+Jarrod,Not Specified,641 Lane,,,98597,1983,,Semi Private Performance 2x per week couple special ,499,cancelled,3/6/2019,2/9/2017,1
+Charlene,Female,642 Lane,,,98589,1974,,Semi Private Perfomance 2x Per Week,249,cancelled,11/12/2019,12/12/2019,1
+Gabrielle,Female,643 Lane,,,,2006,,Team Training ,79,cancelled,10/5/2020,11/5/2020,1
+Cesar,Female,644 Lane,,,98501,1989,,Live Virtual Training ,80,cancelled,5/19/2020,8/17/2020,0
+Clifford,Not Specified,645 Lane,Shelton,WA,98584,,,Speaking Engagement  Training Session,500,cancelled,6/24/2016,6/24/2016,0
+Byron,Not Specified,646 Lane,,,,2004,,Team Training ,104,cancelled,10/5/2020,12/30/2020,1
+Terrell,Not Specified,647 Lane,,,,,,Semi Private Perfomance 2x Per Week,249,cancelled,1/16/2017,4/11/2017,1
+Sonia,Female,648 Lane,Olympia,WA,98502,1996,,Team Training 2x per week,49,cancelled,2/23/2017,3/12/2018,1
+Julio,Female,,Apex,NC,27539,1955,,6 week challenge weekly payments ,7.25,cancelled,10/23/2018,,0
+Stacie,Female,650 Lane,Tumwater ,WA,98512,1979,,Semi Private Perfomance 2x Per Week,249,cancelled,4/30/2016,7/29/2016,1
+Shelby,Female,651 Lane,Tumwater ,WA,98512,1979,,Team Training ,129,cancelled,4/30/2016,3/1/2021,1
+Shelly,Female,652 Lane,Tumwater ,WA,98512,1979,,Precision Nutrition ProCoach Program member rate ,25,cancelled,4/30/2016,,1
+Edgar,Female,653 Lane,Tumwater ,WA,98512,1979,,Semi Private Perfomance 2x Per Week,299,cancelled,4/30/2016,5/11/2021,1
+Roxanne,Female,654 Lane,,,98502,1969,,Team Training 3x Per Week ,109,cancelled,5/17/2016,1/16/2017,1
+Dwayne,Female,655 Lane,,,98502,1969,,Team Training 2x per week 6 month commitment,89,cancelled,5/17/2016,4/12/2020,1
+Kaitlyn,Female,,,,98502,1969,,6 week challenge weekly deposit ,50,cancelled,5/17/2016,3/1/2021,1
+Kasey,Male,657 Lane,,,,1986,,2 x per week semi  2 ,299,cancelled,1/25/2017,4/30/2018,1
+Jocelyn,Female,658 Lane,,,,,,Team Training ,129,cancelled,5/20/2017,11/20/2017,0
+Alexandria,Female,,,,,,,Team Training 3x per week month to month,119,cancelled,2/23/2017,5/10/2017,1
+Harold,Female,660 Lane,Olympia,WA,98502,1993,,Indie Membership 6 Month Commitment,79,cancelled,5/16/2016,11/8/2017,0
+Esther,Not Specified,661 Lane,,,,,,Team Training 3x Per Week ,109,cancelled,6/1/2016,11/3/2017,0
+Kerri,Female,662 Lane,Olympia,WA,98501,1986,,Team Training 2x per week,69,cancelled,9/15/2017,10/4/2017,1
+Ellen,Not Specified,663 Lane,,,,1988,,Semi Private Perfomance 2x Per Week,200,cancelled,5/9/2016,6/26/2019,1
+Abraham,Female,664 Lane,,,,,,Team Training 3x Per Week ,89,cancelled,9/15/2016,4/19/2017,1
+Cedric,Not Specified,665 Lane,,,,1966,,Team Training ,129,cancelled,4/30/2016,12/29/2019,1
+Carol,Not Specified,666 Lane,,,,1966,,Team Training 2x per week 6 month commitment,89,cancelled,4/30/2016,4/18/2020,1
+Katharine,Female,667 Lane,,,,1973,,Team Training 3x Per Week ,99,cancelled,9/19/2017,2/7/2018,0
+Shauna,Female,668 Lane,,,98579,1979,,Team Training ,129,cancelled,5/19/2021,6/9/2021,1
+Frances,Female,,,,98584,1971,,semi private 2x per week ,125,cancelled,7/13/2019,7/26/2019,1
+Antoine,Female,,Rochester WA,,98579,1969,,Team Training ,129,cancelled,3/19/2019,3/18/2019,1
+Tabatha,Female,,Rochester WA,,98579,1969,,Team Training ,129,cancelled,3/19/2019,10/16/2019,1
+Annie,Male,,Olympia ,Wa,98516,1952,,Team Training ,129,cancelled,10/27/2021,1/3/2022,1
+Erick,Not Specified,673 Lane,,,,,,2 x per week semi  2 ,425,cancelled,5/10/2016,5/10/2016,1
+Alissa,Female,674 Lane,,,,,,Semi Private Elite 3 Month Commitment,349,cancelled,1/21/2017,2/26/2017,1
+Sherry,Female,675 Lane,,,,,,Semi Private Perfomance 2x Per Week,299,cancelled,1/21/2017,4/17/2017,1
+Chelsey,Female,676 Lane,,,,1968,,Team Training ,129,cancelled,7/19/2016,1/30/2020,1
+Franklin,Female,677 Lane,,,,1968,,YouthHigh School Performance Training 6 Month Commitment,49,cancelled,7/19/2016,10/10/2017,1
+Branden,Male,678 Lane,,,98506,1970,,Team Training 3x Per Week ,79,cancelled,4/21/2019,11/7/2020,1
+Helen,Female,679 Lane,,,,,,Team Training ,129,cancelled,7/30/2016,8/23/2017,0
+Traci,Female,680 Lane,,,,,,Team Training 2x per week,79,cancelled,7/30/2016,9/18/2018,0
