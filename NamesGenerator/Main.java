@@ -1,3 +1,10 @@
+/* Anthony Gutierrez
+   03/22/2021
+   Main.java
+   This program generates a random name and continuously prompts the user if they
+   want to keep generating new names.
+*/
+
 import java.util.*;
 import java.io.*;
 
