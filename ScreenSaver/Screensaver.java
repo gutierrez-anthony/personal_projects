@@ -1,17 +1,14 @@
 /*  
    Anthony Gutierrez
    09/30/2021
-   House.java
+   Screensaver.java
    This line of code contains an animation
    for a screensaver.
  */
 
 import acm.program.GraphicsProgram;
 import java.awt.Color;
-import acm.graphics.GOval;
-import acm.graphics.GPolygon;
-import acm.graphics.GLine;
-import acm.graphics.GArc;
+import acm.graphics.*;
 
 
 public class Screensaver extends GraphicsProgram 
